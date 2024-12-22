@@ -6,16 +6,20 @@
 	font-size: 14;
 	font-family: "Hiragino Sans";
 }
+header{
+	width: 1000px;
+	background-color: #ffcccc;
+}
+header {
+    overflow: hidden;
+}
 #wrapper{
 	width: 1000px;
 	margin: 0;
 	display: flex;
 	justify-content: space-between;
 }
-header{
-	width: 1000px;
-	background-color: #ffcccc;
-}
+
 #main{
 	width: 700px;
 }
@@ -33,4 +37,7 @@ header{
 footer{
 	width: 1000px;
 	background-color: #ffccff;
+}
+footer{
+	overflow: hidden;
 }
