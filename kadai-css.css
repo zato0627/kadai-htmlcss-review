@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#wrapper{
+	margin: 0;
+	padding: 0;
+	font-size: 14;
+	font-family: "Hiragino Sans";
+}
+#wrapper{
+	width: 1000px;
+	margin: 0;
+	display: flex;
+	justify-content: space-between;
+}
+header{
+	width: 1000px;
+	background-color: #ffcccc;
+}
+#main{
+	width: 700px;
+}
+#main{
+	margin: 0;
+	background-color: #ccffcc;
+}
+#menu{
+	width: 300px;
+}
+#menu{
+	margin: 0;
+	background-color: #ccccff;
+}
+footer{
+	width: 1000px;
+	background-color: #ffccff;
+}
