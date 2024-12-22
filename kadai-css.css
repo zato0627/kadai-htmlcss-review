@@ -10,9 +10,6 @@ header{
 	width: 1000px;
 	background-color: #ffcccc;
 }
-header {
-    overflow: hidden;
-}
 #wrapper{
 	width: 1000px;
 	margin: 0;
@@ -37,7 +34,4 @@ header {
 footer{
 	width: 1000px;
 	background-color: #ffccff;
-}
-footer{
-	overflow: hidden;
 }
